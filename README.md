@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**drewpeterson1/drewpeterson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi There, 
 
-Here are some ideas to get you started:
+I am Drew!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Data Science experimenter
+
+Woohoo!
+
+- 🔭 I’m currently working on ... Data Science
+- 🌱 I’m currently learning ...Supervised Machine Learning 
+- 👯 I’m looking to collaborate on ... projects that involve data
+- 🤔 I’m looking for help with ... learning Data
+- 💬 Ask me about: Basketball
+- 📫 How to reach me: drewpeterson11@gmail.com
+- ⚡ Fun fact: Lego Lego Legggoooo
