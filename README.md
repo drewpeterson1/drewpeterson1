@@ -9,9 +9,9 @@ I was formally educated at LearningFuze Bootcamp in Irvine, California, and also
 Woohoo!
 
 Here are areas of Data I find interesting to Explore:
-🏀 Sports Analysis (but not forgetting about the heart of a champion)
-🔮 Predictive Modelling (this is a new area of interest)
-🤖 Machine Learning (very much an area I am constantly growing in)
+- 🏀 Sports Analysis (but not forgetting about the heart of a champion)
+- 🔮 Predictive Modelling (this is a new area of interest)
+- 🤖 Machine Learning (very much an area I am constantly growing in)
 
 
   
