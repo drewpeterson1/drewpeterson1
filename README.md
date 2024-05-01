@@ -10,5 +10,5 @@ Woohoo!
 
 Here are areas of Data I find interesting to Explore:
 - 🏀 Sports Analysis (but not forgetting about the heart of a champion)
-- 🔮 Predictive Modelling (using data to inform future decisions)
+- 🔮 Predictive Modelling (using data to inform future decisions) 
 - 🤖 Machine Learning (very much an area I am constantly growing in)
